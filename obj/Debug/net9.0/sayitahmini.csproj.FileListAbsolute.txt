@@ -1,0 +1,14 @@
+C:\Users\utume\Desktop\C#\sayitahmini\bin\Debug\net9.0\sayitahmini.exe
+C:\Users\utume\Desktop\C#\sayitahmini\bin\Debug\net9.0\sayitahmini.deps.json
+C:\Users\utume\Desktop\C#\sayitahmini\bin\Debug\net9.0\sayitahmini.runtimeconfig.json
+C:\Users\utume\Desktop\C#\sayitahmini\bin\Debug\net9.0\sayitahmini.dll
+C:\Users\utume\Desktop\C#\sayitahmini\bin\Debug\net9.0\sayitahmini.pdb
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.AssemblyInfoInputs.cache
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.AssemblyInfo.cs
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.csproj.CoreCompileInputs.cache
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.dll
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\refint\sayitahmini.dll
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.pdb
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\sayitahmini.genruntimeconfig.cache
+C:\Users\utume\Desktop\C#\sayitahmini\obj\Debug\net9.0\ref\sayitahmini.dll
